@@ -1,0 +1,6 @@
+@Foody.Services.RewardsAPI_HostAddress = http://localhost:5181
+
+GET {{Foody.Services.RewardsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

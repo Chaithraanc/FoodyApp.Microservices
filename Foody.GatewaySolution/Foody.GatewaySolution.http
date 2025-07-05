@@ -1,0 +1,6 @@
+@Foody.GatewaySolution_HostAddress = http://localhost:5047
+
+GET {{Foody.GatewaySolution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
